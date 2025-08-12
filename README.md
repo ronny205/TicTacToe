@@ -32,8 +32,6 @@ A simple console-based **Tic Tac Toe** game for two players (X and O), built usi
    javac Board.java
    ```
 
-````
-
 4. **Run the program:**
 
    ```bash
@@ -44,11 +42,11 @@ A simple console-based **Tic Tac Toe** game for two players (X and O), built usi
 
 ## 🕹️ How to Play
 
-* The game starts with **Player X**.
+- The game starts with **Player X**.
 
-* Players take turns by entering a number (1–9) corresponding to a board slot.
+- Players take turns by entering a number (1–9) corresponding to a board slot.
 
-* The slot positions are laid out as:
+- The slot positions are laid out as:
 
   ```
   | 1 | 2 | 3 |
@@ -56,9 +54,9 @@ A simple console-based **Tic Tac Toe** game for two players (X and O), built usi
   | 7 | 8 | 9 |
   ```
 
-* If a player enters an invalid input (e.g., non-number, out-of-range, or already occupied), the program will ask for a re-entry.
+- If a player enters an invalid input (e.g., non-number, out-of-range, or already occupied), the program will ask for a re-entry.
 
-* The game ends when one player wins or the board is full (draw).
+- The game ends when one player wins or the board is full (draw).
 
 ---
 
@@ -101,5 +99,3 @@ Developed by **Ronnie**.
 ## 📝 License
 
 This project is open-source and available for educational or personal use. Feel free to modify and distribute it.
-
-````
